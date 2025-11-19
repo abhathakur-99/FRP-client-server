@@ -8,6 +8,7 @@
 <br><img width="766" height="507" alt="image" src="https://github.com/user-attachments/assets/e8f213c8-7b5d-4acb-a874-c8c8c9878bf9" />
 ## Create Systemd Service (Run Automatically)
 <br><img width="661" height="416" alt="image" src="https://github.com/user-attachments/assets/e1f030a5-a5a4-4b2f-bf4b-cd1048e34213" />
+<img width="983" height="478" alt="image" src="https://github.com/user-attachments/assets/d0b8abf8-c4e7-402e-84b8-b04d2204843d" />
 
-<img width="995" height="523" alt="image" src="https://github.com/user-attachments/assets/9aeca1ac-2d00-4c1f-ab7c-bcae16c87515" />
+
 <img width="990" height="515" alt="image" src="https://github.com/user-attachments/assets/d78616f8-e15a-4199-b0bf-d8fada241d8c" />
